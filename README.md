@@ -1,5 +1,5 @@
 # Home-Lab-SOC
-A Proxmox-based cybersecurity home lab for developing practical SOC Analyst, Networking, Linux, virtualization, Docker, Coding and Software Development/Engineering, and self-hosting skills.
+A Proxmox-based cybersecurity home lab for developing practical SOC Analyst, Networking, Linux, Virtualization, Docker, Coding and Software Development/Engineering, and self-hosting skills.
 
 The primary focus of this environment is developing hands-on SOC Analyst skills through controlled attack simulations, security monitoring, alert investigation, incident documentation, and defensive security experimentation.
 
@@ -89,8 +89,7 @@ The investigation will examine:
 - Detection capabilities
 - Detection gaps
 
-See:
-- soc/attack-scenarios/001-nmap-reconnaissance/
+See: [001 Nmap Reconnaissance](soc/attack-scenarios/001-nmap-reconnaissance/README.md)
 
 # 🌐 Network Architecture
 The current lab uses a simple single-network design.
@@ -169,47 +168,52 @@ This environment is being used to develop skills in:
 - Virtualization
 - Networking
 - Self-Hosting
+- Coding & Software Development/Engineering
 - Cybersecurity
 
 # 🚧 Planned Development
 The lab will evolve over time.
+
 SOC
-Deploy Wazuh
-Connect Windows 11 agent
-Connect Kali Linux agent
-Collect Windows Security events
-Monitor successful/failed logins
-Create first Nmap reconnaissance exercise
-Complete Nmap detection investigation
-Create custom detection rules
-Create additional attack scenarios
-Document security investigations
-Develop incident response workflow
-Integrate Zammad into incident management
-Map detections to MITRE ATT&CK techniques
+- [ ] Deploy Wazuh
+- [ ] Connect Windows 11 agent
+- [ ] Connect Kali Linux agent
+- [ ] Collect Windows Security events
+- [ ] Monitor successful/failed logins
+- [ ] Create first Nmap reconnaissance exercise
+- [ ] Complete Nmap detection investigation
+- [ ] Create custom detection rules
+- [ ] Create additional attack scenarios
+- [ ] Document security investigations
+- [ ] Develop incident response workflow
+- [ ] Integrate Zammad into incident management
+- [ ] Map detections to MITRE ATT&CK techniques
+
 Infrastructure
-Deploy Proxmox environment
-Deploy seven virtual machines
-Deploy Ubuntu Docker host
-Deploy Docker-based services
-Improve documentation
-Develop backup/recovery procedures
-Explore automation
+- [ ] Deploy Proxmox environment
+- [ ] Deploy seven virtual machines
+- [ ] Deploy Ubuntu Docker host
+- [ ] Deploy Docker-based services
+- [ ] Improve documentation
+- [ ] Develop backup/recovery procedures
+- [ ] Explore automation
+
 Networking
-Establish basic lab connectivity
-Deploy EVE-NG
-Build networking scenarios
-Practice routing
-Practice switching
-Explore network security
-Explore network segmentation
+- [ ] Establish basic lab connectivity
+- [ ] Deploy EVE-NG
+- [ ] Build networking scenarios
+- [ ] Practice routing
+- [ ] Practice switching
+- [ ] Explore network security
+- [ ] Explore network segmentation
+
 Self-Hosting
-Deploy TrueNAS
-Deploy ZimaOS
-Deploy Docker
-Deploy Zammad
-Deploy Code-Server
-Explore additional self-hosted services
+- [ ] Deploy TrueNAS
+- [ ] Deploy ZimaOS
+- [ ] Deploy Docker
+- [ ] Deploy Zammad
+- [ ] Deploy Code-Server
+- [ ] Explore additional self-hosted services
 
 # 📈 Project Philosophy
 The lab is intentionally being developed incrementally.
@@ -223,7 +227,13 @@ Sensitive information such as passwords, API keys, private keys, credentials, an
 
 # 📌 Project Status
 Current Phase: SOC Development / Detection Engineering
+
 Primary Focus: SOC Analyst skills
+
 Environment: Proxmox-based home lab
+
 Network: Single home LAN
+
 Primary SIEM: Wazuh
+
+See [My SOC Journal](systems/SOC-Journal.md) for updates which is done periodically.
