@@ -1,5 +1,5 @@
 # Home-Lab-SOC
-A Proxmox-based cybersecurity home lab for developing practical SOC Analyst, networking, Linux, virtualization, Docker, and self-hosting skills.
+A Proxmox-based cybersecurity home lab for developing practical SOC Analyst, Networking, Linux, virtualization, Docker, Coding and Software Development/Engineering, and self-hosting skills.
 
 The primary focus of this environment is developing hands-on SOC Analyst skills through controlled attack simulations, security monitoring, alert investigation, incident documentation, and defensive security experimentation.
 
