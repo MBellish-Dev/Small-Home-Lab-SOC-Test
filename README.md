@@ -236,4 +236,4 @@ Network: Single home LAN
 
 Primary SIEM: Wazuh
 
-See [My SOC Journal](Small-Home-Lab-SOC-Test/SOC-Journal.md) for updates which is done periodically.
+See [My SOC Journal](https://github.com/MBellish-Dev/Small-Home-Lab-SOC-Test/blob/main/SOC%20Journal.md) which is updated periodically.
