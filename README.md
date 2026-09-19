@@ -89,7 +89,7 @@ The investigation will examine:
 - Detection capabilities
 - Detection gaps
 
-See: [001 Nmap Reconnaissance](soc/attack-scenarios/001-nmap-reconnaissance/README.md)
+See: [001 Nmap Reconnaissance](soc/attack-scenarios/001-nmap-reconnaissance/investigation.md)
 
 # 🌐 Network Architecture
 The current lab uses a simple single-network design.
