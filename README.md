@@ -150,6 +150,7 @@ Network segmentation may be explored in the future as the lab develops.
   - Code-Server
   - TrueNAS
   - ZimaOS
+  - Obsidian (added on 9/22/26)
 - Networking
   - EVE-NG
   - Proxmox virtual networking
