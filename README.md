@@ -151,6 +151,7 @@ Network segmentation may be explored in the future as the lab develops.
   - TrueNAS
   - ZimaOS
   - Obsidian (added on 9/26/26)
+  - Portainer (added on 10/17/2026)
 - Networking
   - EVE-NG
   - Proxmox virtual networking
