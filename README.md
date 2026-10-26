@@ -21,7 +21,7 @@ The lab is built on a Proxmox virtualization server and currently contains seven
 | VM | ID | Primary Purpose |
 |---|---|---|
 | TrueNAS | 100 | Storage and file management |
-| ZimaOS | 101 | Self-hosting experimentation |
+| ZimaOS | 101 | Self-hosting experimentation (destroyed and rebuilt on 10-25-26 |
 | Kali Linux | 102 | Security testing and attack simulation |
 | Ubuntu Server | 103 | Linux, Docker, and SOC services |
 | Bodhi Linux | 104 | Pi Agent coding experimentation |
