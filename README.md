@@ -24,9 +24,11 @@ The lab is built on a Proxmox virtualization server and currently contains seven
 | ZimaOS | 101 | Self-hosting experimentation (destroyed and rebuilt on 10-25-26) |
 | Kali Linux | 102 | Security testing and attack simulation |
 | Ubuntu Server | 103 | Linux, Docker, and SOC services |
-| Bodhi Linux | 104 | Pi Agent coding experimentation |
+| Bodhi Linux | 104 | Pi Agent coding experimentation and Paperclip AI testing <-- (added on 11-6-26) |
 | Windows 11 | 105 | Monitored endpoint and security testing target
 | EVE-NG | 106 | Networking laboratory |
+| UmbrelOS | 107 | Added on 11-1-26. Another self-hosting experimentation |
+| Home Assistant | 108 | Home automation experimentation |
 
 
 # 🛡️ SOC Environment
@@ -139,6 +141,8 @@ Network segmentation may be explored in the future as the lab develops.
   - Bodhi Linux
   - Windows 11
   - EVE-NG
+  - UmbrelOS (added on 11-1-26)
+  - Home Assistant (added on 11-5-26)
 - Security
   - Wazuh
   - Kali Linux
